@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to top right, #a8e6cf, #dcedc1);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.poster {
+  text-align: center;
+  background: #ffffffcc;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+}
+
+.earth {
+  font-size: 80px;
+  animation: rotateEarth 10s linear infinite;
+  margin-bottom: 10px;
+}
+
+@keyframes rotateEarth {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+h1 {
+  color: #2e7d32;
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 18px;
+  color: #388e3c;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #66bb6a;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: #388e3c;
+}
+
+#tree-message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #2e7d32;
+  font-weight: bold;
+}
