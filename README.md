@@ -16,7 +16,6 @@ This project promotes environmental awareness with a fun interactive UI and anim
 - **CSS3** – styling and animations
 - **JavaScript** – interactivity
 
-[image](https://github.com/user-attachments/assets/0f36947e-d1c2-4754-a5da-5fa1497dc3f2)
 
 
   🌍 Happy World Environment Day!
