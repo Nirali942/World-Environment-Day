@@ -16,5 +16,8 @@ This project promotes environmental awareness with a fun interactive UI and anim
 - **CSS3** – styling and animations
 - **JavaScript** – interactivity
 
+  🌍 Happy World Environment Day!
+“The Earth is what we all have in common.” – Wendell Berry
+
 
 
